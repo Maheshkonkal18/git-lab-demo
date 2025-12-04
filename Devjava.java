@@ -1,1 +1,5 @@
-System.out.println("HEllo");
+public class Devjava {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
